@@ -13,6 +13,6 @@ public class Hello {
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-        System.out.println(MyMath.max(8,9));
+        System.out.println(MyMath.max3(8,9,12));
     }
 }
