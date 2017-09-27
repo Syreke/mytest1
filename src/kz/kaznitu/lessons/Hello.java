@@ -17,5 +17,7 @@ public class Hello {
 
         System.out.println(MyMath.isEven(12));
         System.out.println(MyMath.isEven(7));
+        System.out.println("max = " + MyMath.max3(8,9,12));
+        System.out.println("min = " + MyMath.min3(12,8,15));
     }
 }
